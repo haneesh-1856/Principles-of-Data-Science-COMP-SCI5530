@@ -1,0 +1,15 @@
+Visualization 1: Violin Plot of Gender by Total Scores
+Shows distribution of total scores across different race/ethnicity groups. The wider the violin, higher the concentration of students scoring in that range. Dots inside the violin show individual student scores, help to spot outliers.
+
+Visualization 2: Line Plot for different scores by Gender
+Compares the average total scores of male and female students. Slope of the line indicates the magnitude of difference in scores between male and female students. From the Graph, female students averages dominates male students in reading and writing scores. Slope shows male students maths score is more than female students.
+
+Visualization 3: Count Plot for race/ethnicity by Gender
+Compares the number of male and female students in different race/ethnicity. The different colored bars represent the male and female count for each group.
+
+Visualization 4 : Pie Chart for different types of Lunch
+Shows the proportion of students who receive standard vs. free/reduced lunch.
+
+Visualization 5 : Bar Chart of Parental Education Levels
+This bar chart shows how many students fall under each parental education level. If majority of parents have lower education level, it may impact student academic performance. If more parents have higher education, it might relate with better student scores.
+
